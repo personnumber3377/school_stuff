@@ -131,9 +131,26 @@ if __name__=="__main__":
 
 
 '''
-I was given the following prompt: ``````
+I was given the following prompt: ```Quantities u, v, w and z satisfy the equations 2*z+2*w+v+3*u=-4 and 5*z+w+2*v+u=-2  find the partial derivatives (dz/dw)_u and (dv/du)_w at (3,2).``` I was also given the hint: Remember: (dz/dw)_u equals (dz(w,u)/dw) that is z is a function of w and u but it is not a function of v which is a function of w and u. I do not understand how the hint makes sense, since the subscript means that the quantity u remains constant, so therefore how can z be a function of w and u , when u is a constan? Please explain
 
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
