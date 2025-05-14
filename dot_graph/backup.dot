@@ -1,0 +1,13 @@
+digraph Tunnelointimikroskopia {
+    node [shape=box];  // Default node style
+    main [label="Electron tunneling microscopy", shape=box];
+    phenomena [label="Related phenomena", shape=box];
+    methods [label="Methodology", shape=box];
+    stm [label="Scanning tunneling microscope", shape=box]
+    main -> methods;
+    methods -> stm;
+    
+    main -> phenomena;
+    
+}
+

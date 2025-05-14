@@ -1,0 +1,99 @@
+Absolutely! Here's a detailed and structured two-page style answer to the question about the risks associated with founding Phoenix Grill, tailored to match your current business plan style and tone.
+
+2. Yrityksen perustamiseen liittyvät riskit
+Phoenix Grillin perustamiseen liittyy monia eri riskitekijöitä, jotka on hyvä tunnistaa varhaisessa vaiheessa ja suunnitella niihin mahdollisia varautumiskeinoja. Vaikka kyseessä on pohjimmiltaan ravintolatoiminta — eli “ruoan valmistus ja myynti” — liittyy siihen merkittävä määrä operatiivisia, taloudellisia, juridisia ja logistisia riskejä, erityisesti kun toimintamalli nojaa vahvasti hävikkiruokaan ja yhteisölliseen osallistamiseen. Alla esitetään keskeisimmät riskit sekä niihin varautumiskeinot.
+
+2.1 Toimitusketjuriskit ja raaka-aineiden saatavuus
+Riskit:
+Phoenix Grillin liiketoimintamalli perustuu pitkälti vanhentumisvaarassa olevien elintarvikkeiden hyödyntämiseen. Tämä aiheuttaa riippuvuutta ulkopuolisista toimijoista kuten ruokakaupoista, tukkureista ja mahdollisesti jopa yksittäisistä kuluttajista. Mikäli raaka-aineita ei saada tasaisesti, ruokalistasta tulee vaikeasti hallittava ja tuotteiden laatu saattaa vaihdella liikaa.
+
+Vaikutukset:
+Tarjonnan epäjohdonmukaisuus voi heikentää asiakaskokemusta ja luottamusta brändiin. Pahimmillaan ruoan laatu kärsii tai tarjonta on liian rajoitettua, mikä karkottaa kanta-asiakkaita.
+
+Varautuminen:
+
+Rakennetaan kahden raaka-ainetyypin järjestelmä: perustuotteet tulevat varmoista lähteistä ja vaihtuvat erikoistuotteet perustuvat hävikkiruokaan.
+
+Kehitetään pitkäaikaisia yhteistyösopimuksia ruokakauppojen ja tuottajien kanssa.
+
+Luodaan toimiva varastointi- ja ennakointijärjestelmä, joka tasaa saatavuuden vaihteluita.
+
+2.2 Taloudelliset riskit
+Riskit:
+Opiskelijoiden budjetti on rajallinen, ja hintatasoa ei voi nostaa ilman asiakaskunnan kapenemista. Samalla toimintaa pyörittävät kiinteät kulut kuten vuokrat, palkat ja kuljetuskustannukset. Ruoka-auto tuo lisäkustannuksia (huolto, polttoaine, lupa-asiat). Myös alkuvaiheen investoinnit voivat olla vaikeasti katettavissa ennen riittävää asiakasmäärää.
+
+Vaikutukset:
+Kassavirta voi jäädä negatiiviseksi, mikä voi johtaa maksukyvyttömyyteen, varsinkin ilman ulkopuolista rahoitusta tai tukia.
+
+Varautuminen:
+
+Haetaan mahdollisuuksien mukaan starttirahaa tai muita opiskelijayrittäjyyteen liittyviä tukia.
+
+Pyritään hyödyntämään yhteisöperustaista rahoitusta (crowdfunding, ennakkomaksut ruokalipuilla).
+
+Aloitetaan toiminta pienimuotoisesti ja kasvatetaan vasta kysynnän kasvaessa.
+
+2.3 Hygienia- ja elintarviketurvallisuus
+Riskit:
+Hävikkiruoka voi olla lähellä viimeistä käyttöpäivää, mikä asettaa erityisvaatimuksia säilytykselle ja ruoanvalmistukselle. Mahdolliset hygieniavirheet voivat johtaa elintarvikeviranomaisten huomautuksiin tai jopa toiminnan keskeyttämiseen.
+
+Vaikutukset:
+Negatiivinen julkisuus voi nopeasti tuhota luottamuksen, ja vakavat virheet voivat aiheuttaa oikeudellisia seuraamuksia.
+
+Varautuminen:
+
+Tehdään tiivistä yhteistyötä elintarvikevalvonnan kanssa ja koulutetaan henkilökunta hyvin.
+
+Käytetään tarkkaa dokumentaatiota elintarvikkeiden vastaanotossa ja valmistuksessa.
+
+Käytetään vain käytettävissä ennen -tuotteita, ei viimeinen käyttöpäivä -merkittyjä.
+
+2.4 Henkilöstö- ja osaamisriskit
+Riskit:
+Pienellä tiimillä toimittaessa avainhenkilöiden sairastumiset tai poistuminen voivat lamaannuttaa toimintaa. Toisaalta osa-aikaiset opiskelijatyöntekijät eivät välttämättä sitoudu pitkällä tähtäimellä tai voi olla puutteita ammattikeittiöosaamisessa.
+
+Vaikutukset:
+Toiminnan jatkuvuus vaarantuu ja asiakaskokemus voi heikentyä osaamisen vaihdellessa.
+
+Varautuminen:
+
+Rakennetaan joustava työvuorojärjestelmä ja moniosaava tiimi.
+
+Panostetaan perehdytykseen ja mahdollisesti koulutukseen (esim. hygieniapassi).
+
+Houkutellaan vapaaehtoisia ja yhteisöosallistujia kokeilemaan kevyttä osallistumista.
+
+2.5 Kysyntäriskit
+Riskit:
+Vaikka markkinarako (ilta- ja yöruoka) on selkeä, ei ole varmuutta, että riittävä määrä asiakkaita aktivoituu käyttämään palvelua säännöllisesti. Opiskelijat voivat valita halvempia vaihtoehtoja tai valmistaa ruokaa kotona.
+
+Vaikutukset:
+Kysynnän jääminen odotuksia matalammaksi johtaa liian alhaisiin myyntimääriin ja heikkoon kannattavuuteen.
+
+Varautuminen:
+
+Tehdään alussa laaja markkinointikampanja yhteistyössä opiskelijajärjestöjen kanssa.
+
+Hyödynnetään tapahtumia, jolloin kysyntäpiikkejä syntyy luonnostaan.
+
+Rakennetaan kanta-asiakasohjelma tai palkitsemismalli osallistumisesta.
+
+2.6 Lainsäädäntö- ja lupa-asiat
+Riskit:
+Hävikkiruoan käsittely saattaa aiheuttaa tulkinnanvaraisia kysymyksiä viranomaisten kanssa, kuten kenellä on oikeus toimittaa elintarvikkeita ja miten niiden alkuperä tulee dokumentoida.
+
+Vaikutukset:
+Toiminnan hidastuminen, sakot tai toimilupien epääminen voivat estää toiminnan.
+
+Varautuminen:
+
+Keskustellaan hyvissä ajoin elintarvikeviranomaisten kanssa toimintamallista.
+
+Käytetään selkeitä lomakkeita ja dokumentteja toimitettujen raaka-aineiden seuraamiseksi.
+
+Aloitetaan toiminta turvallisella skaalalla ja laajennetaan kun lupaprosessit ovat kunnossa.
+
+Yhteenveto
+Phoenix Grill on kunnianhimoinen ja yhteiskunnallisesti merkittävä projekti, mutta vaatii realistisen lähestymistavan riskienhallintaan. Suurin uhka ei ole yksittäinen virhe, vaan usean pienemmän riskin yhtäaikainen toteutuminen. Kriittisiä riskikohtia ovat erityisesti toimitusketjun epävarmuus, elintarviketurvallisuus ja kysynnän vakiinnuttaminen. Toisaalta nämä samat kohdat muodostavat myös toiminnan suurimmat mahdollisuudet: toimiva toimitusketju, turvallinen ja vastuullinen ruokatuote, sekä vahva yhteys asiakkaisiin voivat luoda kestävän ja skaalautuvan liiketoimintamallin
+
+

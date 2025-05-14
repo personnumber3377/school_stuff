@@ -1,0 +1,44 @@
+
+digraph Tunnelointimikroskopia {
+    node [shape=box];  // Default node style
+    main [label="Electron tunneling microscopy"];
+    phenomena [label="Related phenomena"];
+    methods [label="Methodology"];
+    stm [label="Scanning Tunneling Microscope (STM)"]
+    
+    q_tunnel [label="Quantum tunneling"]
+    schrodinger [label="Schrödinger's equation"]
+    wave_particle [label="Wave particle duality"]
+    uncertainty [label="Uncertainty principle"];
+    
+    main -> methods;
+    methods -> stm;
+    # Phenomena
+    main -> phenomena;
+    phenomena -> q_tunnel;
+    
+    phenomena -> schrodinger;
+    schrodinger -> wave_particle;
+    schrodinger -> uncertainty;
+    
+    # Implementation maybe???
+    implementation [label="Implementation"];
+    stm -> implementation;
+    
+    tip [label="Tip preparation"]
+    software [label="Software"]
+    image_constr [label="Image construction"]
+    signal [label="Signal processing"]
+    vibration [label="Noise reduction"]
+    piezo [label="Precision movement"]
+    feedback [label="Control system"]
+    
+    implementation -> feedback;
+    implementation -> piezo;
+    implementation -> vibration;
+    implementation -> signal;
+    implementation -> image_constr;
+    implementation -> software;
+    implementation -> tip;
+    
+}
