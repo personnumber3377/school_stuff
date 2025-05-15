@@ -1,0 +1,41 @@
+I was given this prompt here:
+
+
+
+
+
+
+
+Raaka-aineena valmistusprosessissa toimii pääosin typestä ja fosforista koostuva ravinnesekoitus, jolla leväkantaa ruokitaan sen kasvattamiseksi. Ravinneseoksen hankinta tapahtuu erissä, joissa seos on valmiiksi jaettu 4 kg annoksiin. Raaka-ainekustannukset ovat viime vuosina pysyneet samalla tasolla, keskimäärin 0.87 € per annos. 
+
+Vaikka biopolttoaineen kysyntä on kasvanut lentokoneiden ympäristöystävällisyyteen liittyvien tekijöiden korostuessa, haluaa yrityksen johto varmistaa, että Biohajotus Oy:n nykyinen liiketoiminta riittää myös tulevien tutkimusinvestointien rahoittamiseen. 
+
+Tarkastellaan tilikautta 1.1.2023 – 31.12.2023. Tilikauden alussa yrityksellä on varastossa 55000 annosta raaka-ainetta. Voidaan olettaa, että 1 annoksella raaka-ainetta voidaan tuottaa 1 annos levää, josta puolestaan voidaan jalostaa 1 litra biopolttoainetta. Kirjanpidon kannalta varastonhallintaa on yksinkertaistettu siten, että välivarastoa ei lasketa, vaan ravinneannoksista tuotettu jalostuskelpoinen levä lasketaan raaka-aineeksi, kunnes se on jalostettu biopolttoaineeksi. Valmistuotevarastossa myyntiä odottaa 170000 litraa käyttökelpoista Ekopoltetta. Tilikauden avaava tase (1.1.2023) näyttää seuraavalta:
+
+
+Vastaavaa (€) 	 		Vastattavaa (€) 	 
+Pysyvät vastaavat 	 		Oma pääoma	 
+- Käyttöomaisuus	800000		- Osakepääoma 	624010
+Vaihtuvat vastaavat	 		- Kertynyt tulos	0
+- Raaka-ainevarasto	47850		- Tilikauden tulos	100000
+- Valmisvarasto	147900		Vieras pääoma	 
+- Myyntisaamiset	38700		- Pitkäaikaiset lainat	250000
+- Rahat ja pankkisaamiset 	100000		- Lyhytaikaiset lainat  	150000
+ 	 		- Ostovelat	10440
+
+Tilikauden aikana Biohajotus Oy ostaa 70000 annosta raaka-ainetta hintaan 0.87 €/annos. Yritys jalostaa tilikauden aikana raaka-aineesta yhteensä 100000 litraa Ekopoltetta. Ekopoltetta myös myydään 220000 litraa, keskimääräiseen myyntihintaan 3.87 €/litra. Liiketoiminnan muut kustannukset ovat yhteensä 330000 €, joista 264000 € muodostuu henkilöstökuluista ja loput 66000 € jalostuskoneiston ylläpitokuluista sekä logistiikastakuluista. 
+
+Yrityksellä on tilikauden lopussa myyntisaamisia 56760 € edestä, ja ostovelkoja 6090 € edestä. Yritys maksaa erääntyvät lainat tilikauden lopussa, ja nostaa samalla uutta lainaa yhteensä 200000 € edestä. Seuraavalla tilikaudella erääntyvää lainaa on 125000 €. Koko lainapääoman keskimääräinen vuosikorko on 7 %. Vieraan pääoman tuottovaade vastaa korkoa, kun taas oman pääoman tuottovaade on 12 %. Tilikauden poistot ovat 200000 € ja yritys investoi tilikauden aikana uuteen tuotantolaitteistoon 250000 € edestä. Omistajilleen Biohajotus Oy maksaa verrattain matalien palkkojen tasapainottamiseksi tilikaudella osinkoja 80000 € edestä. Osakepääoma ei muutu tilikauden aikana. Hinnoissa ei tarvitse huomioida arvonlisäveroa, ja verollisesta tuloksesta maksettava yhteisövero on 20 %. 
+
+
+
+Mikä on yrityksen vaihto-omaisuus avaavassa taseessa?
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+
+
+
+
+
+
