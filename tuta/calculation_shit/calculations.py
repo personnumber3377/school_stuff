@@ -442,7 +442,7 @@ def calcs():
 	'''
 
 
-	rahavarojen_muutes = 
+	# rahavarojen_muutes = 
 
 
 

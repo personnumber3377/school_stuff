@@ -1,0 +1,211 @@
+Question 1
+CorrectMark 0.20 out of 0.20Flag question
+Question text
+Tässä tehtävässä tarkastellaan energiatekniikan alan yritystä nimeltä Biohajotus Oy kirjanpidon näkökulmasta. Biohajotus Oy on vuonna 2015 perustettu teekkarivetoinen kasvuyritys, joka keskittyy kehittämään innovatiivisia polttoaineratkaisuja ilmailutarkoituksiin. Yrityksen missio on tarjota ympäristöystävällinen vaihtoehto perinteisille lentopolttoaineille, ja visiona on mahdollistaa bio-lentopetrolin laajamittainen tuotanto sekä käyttö.
+
+Yritys työllistää tällä hetkellä kahdeksan kone- ja kemiantekniikan ammattilaista, jotka myös tällä hetkellä omistavat sen koko osakekannan. Biohajotus Oy:n pääkonttori sijaitsee Otaniemessä, kun taas tutkimus ja polttoainetuotanto tapahtuvat hyvin varustellussa pienlaboratoriossa Olarinluomassa, jossa yritys myös omistaa huomattavat varastotilat. 
+
+Biohajotus Oy:n tuotekehitys perustuu ainutlaatuiseen biopolttoaineen valmistusprosessiin, jossa pääroolissa on yrityksen kehittämä nanoteknologiaa hyödyntävä leväntislauslaite. Tämä patentoitu jalostuskoneisto mahdollistaa energiatiheän biopolttoaineen tuotannon mikrolevästä merkittävästi kilpailijoita tehokkaammin ja potentiaalisesti myös laajemmalla skaalalla.
+
+Tällä hetkellä Biohajotus Oy:n liiketoiminta perustuu pääasiassa biopolttoaineen myyntiin suoraan pienlentokoneiden omistajille sekä eräälle vihreää logistiikkaa liputtavalle rahtilentoyritykselle. Tätä varten yritys on lanseerannut Ekopolte -nimisen leväpohjaisen lentopetrolin. Pyrkimyksenä on lopputuotteen myynnillä herättää kiinnostusta valmistusmenetelmään ja houkutella investointeja, jotta teknologian yleistyminen käynnistyisi ja yritys vastaisuudessa voi siirtyä myymään itse tuotantolaitteita. Ekopoltteen myyntihinta vaihtelee tilausmäärän ja asiakkaan sijainnin mukaan, mutta keskimäärin se on 3.87 €/litra. 
+
+Raaka-aineena valmistusprosessissa toimii pääosin typestä ja fosforista koostuva ravinnesekoitus, jolla leväkantaa ruokitaan sen kasvattamiseksi. Ravinneseoksen hankinta tapahtuu erissä, joissa seos on valmiiksi jaettu 4 kg annoksiin. Raaka-ainekustannukset ovat viime vuosina pysyneet samalla tasolla, keskimäärin 0.87 € per annos. 
+
+Vaikka biopolttoaineen kysyntä on kasvanut lentokoneiden ympäristöystävällisyyteen liittyvien tekijöiden korostuessa, haluaa yrityksen johto varmistaa, että Biohajotus Oy:n nykyinen liiketoiminta riittää myös tulevien tutkimusinvestointien rahoittamiseen. 
+
+Tarkastellaan tilikautta 1.1.2023 – 31.12.2023. Tilikauden alussa yrityksellä on varastossa 55000 annosta raaka-ainetta. Voidaan olettaa, että 1 annoksella raaka-ainetta voidaan tuottaa 1 annos levää, josta puolestaan voidaan jalostaa 1 litra biopolttoainetta. Kirjanpidon kannalta varastonhallintaa on yksinkertaistettu siten, että välivarastoa ei lasketa, vaan ravinneannoksista tuotettu jalostuskelpoinen levä lasketaan raaka-aineeksi, kunnes se on jalostettu biopolttoaineeksi. Valmistuotevarastossa myyntiä odottaa 170000 litraa käyttökelpoista Ekopoltetta. Tilikauden avaava tase (1.1.2023) näyttää seuraavalta:
+
+
+Vastaavaa (€) 	 		Vastattavaa (€) 	 
+Pysyvät vastaavat 	 		Oma pääoma	 
+- Käyttöomaisuus	800000		- Osakepääoma 	624010
+Vaihtuvat vastaavat	 		- Kertynyt tulos	0
+- Raaka-ainevarasto	47850		- Tilikauden tulos	100000
+- Valmisvarasto	147900		Vieras pääoma	 
+- Myyntisaamiset	38700		- Pitkäaikaiset lainat	250000
+- Rahat ja pankkisaamiset 	100000		- Lyhytaikaiset lainat  	150000
+ 	 		- Ostovelat	10440
+
+Tilikauden aikana Biohajotus Oy ostaa 70000 annosta raaka-ainetta hintaan 0.87 €/annos. Yritys jalostaa tilikauden aikana raaka-aineesta yhteensä 100000 litraa Ekopoltetta. Ekopoltetta myös myydään 220000 litraa, keskimääräiseen myyntihintaan 3.87 €/litra. Liiketoiminnan muut kustannukset ovat yhteensä 330000 €, joista 264000 € muodostuu henkilöstökuluista ja loput 66000 € jalostuskoneiston ylläpitokuluista sekä logistiikastakuluista. 
+
+Yrityksellä on tilikauden lopussa myyntisaamisia 56760 € edestä, ja ostovelkoja 6090 € edestä. Yritys maksaa erääntyvät lainat tilikauden lopussa, ja nostaa samalla uutta lainaa yhteensä 200000 € edestä. Seuraavalla tilikaudella erääntyvää lainaa on 125000 €. Koko lainapääoman keskimääräinen vuosikorko on 7 %. Vieraan pääoman tuottovaade vastaa korkoa, kun taas oman pääoman tuottovaade on 12 %. Tilikauden poistot ovat 200000 € ja yritys investoi tilikauden aikana uuteen tuotantolaitteistoon 250000 € edestä. Omistajilleen Biohajotus Oy maksaa verrattain matalien palkkojen tasapainottamiseksi tilikaudella osinkoja 80000 € edestä. Osakepääoma ei muutu tilikauden aikana. Hinnoissa ei tarvitse huomioida arvonlisäveroa, ja verollisesta tuloksesta maksettava yhteisövero on 20 %. 
+
+
+
+Mikä on yrityksen vaihto-omaisuus avaavassa taseessa?
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 1
+195750
+Feedback
+Correct
+Marks for this submission: 0.20/0.20.
+Question 2
+CorrectMark 0.20 out of 0.20Flag question
+Question text
+Mikä on yrityksen rahoitusomaisuus avaavassa taseessa?
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 2
+138700
+Feedback
+Correct
+Marks for this submission: 0.20/0.20.
+Question 3
+Not completeMark 0.00 out of 0.20Flag question
+Question text
+Mikä on yrityksen käyttöpääoma avaavassa taseessa?
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 3
+Feedback
+Incorrect
+Marks for this submission: 0.00/0.20. This submission attracted a penalty of 0.02. Total penalties so far: 0.12.
+Question 4
+CorrectMark 0.20 out of 0.20Flag question
+Question text
+Laske tilikauden liikevaihto.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 4
+851400
+Feedback
+Correct
+Marks for this submission: 0.20/0.20.
+Question 5
+CorrectMark 0.20 out of 0.20Flag question
+Question text
+Laske tilikauden myyntikate.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 5
+660000
+Feedback
+Correct
+Marks for this submission: 0.20/0.20.
+Question 6
+CorrectMark 0.08 out of 0.20Flag question
+Question text
+Laske tilikauden liikevoitto (EBIT).
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 6
+130000
+Feedback
+Correct
+Marks for this submission: 0.20/0.20. Accounting for previous tries, this gives 0.08/0.20.
+Question 7
+CorrectMark 0.10 out of 0.20Flag question
+Question text
+Laske tilikauden nettotulos.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 7
+81600
+Feedback
+Correct
+Marks for this submission: 0.20/0.20. Accounting for previous tries, this gives 0.10/0.20.
+Question 8
+CorrectMark 0.36 out of 0.40Flag question
+Question text
+Laske yrityksen investointien rahavirta (CFinv) tilikauden ajalta.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 8
+-250000
+Feedback
+Correct
+Marks for this submission: 0.40/0.40. Accounting for previous tries, this gives 0.36/0.40.
+Question 9
+CorrectMark 0.32 out of 0.40Flag question
+Question text
+Laske yrityksen tilikauden rahoituksen rahavirta CFfin
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 9
+-30000
+Feedback
+Correct
+Marks for this submission: 0.40/0.40. Accounting for previous tries, this gives 0.32/0.40.
+Question 10
+CorrectMark 0.00 out of 1.00Flag question
+Question text
+Laske käyttöpääoman muutos tilikauden aikana.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 10
+-108090
+Feedback
+Correct
+Marks for this submission: 1.00/1.00. Accounting for previous tries, this gives 0.00/1.00.
+Question 11
+IncorrectMark 0.00 out of 1.00Flag question
+Question text
+Laske yrityksen tilikauden liiketoiminnan rahavirta CFops.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 11
+861420
+Feedback
+Incorrect
+Marks for this submission: 0.00/1.00. This submission attracted a penalty of 0.10. Total penalties so far: 2.00.
+Question 12
+Not completeMarked out of 0.40Flag question
+Question text
+Laske rahavarojen muutos tilikauden aikana.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 12
+Question 13
+IncorrectMark 0.00 out of 0.40Flag question
+Question text
+Laske rahoitusomaisuuden muutos tilikauden aikana.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 13
+-10020
+Feedback
+Incorrect
+Marks for this submission: 0.00/0.40. This submission attracted a penalty of 0.04. Total penalties so far: 0.36.
+Question 14
+Not completeMarked out of 2.00Flag question
+Question text
+Laske päättävän taseen loppusumma.
+
+Yksikkö: € - Syötä vastaus yhden euron tarkkuudella.
+
+Answer:Question 14
+Question 15
+Not completeMarked out of 2.00Flag question
+Question text
+Laske toiminnan kannattavuutta kuvaava tilikauden ROCE (sijoitetun pääoman tuottoaste. Käytä laskussasi aloittavan ja päättävän taseen keskiarvoa)
+
+Yksikkö: % - Syötä vastaus yhden desimaalin tarkkuudella [x.x].
+Answer:Question 15
+Question 16
+Not completeMarked out of 1.00Flag question
+Question text
+Laske yrityksen vakavaraisuutta kuvaava nettovelkaantumisaste (gearing-%) päättävästä taseesta.
+
+Yksikkö: % - Syötä vastaus yhden prosenttiyksikön tarkkuudella.
+
+Answer:Question 16
+Question 17
+Not completeMarked out of 1.00Flag question
+Question text
+Laske yrityksen likviditeettiä kuvaava current ratio päättävästä taseesta.
+
+Ei yksikköä - Syötä vastaus kahden desimaalin tarkkuudella [x.xx].
