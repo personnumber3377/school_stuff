@@ -1,21 +1,19 @@
-
-'''
-
-Jatketaan Biohajotus Oy:n toiminnan tarkastelua katetuottolaskelmallisesta perspektiivistä.
-
-Biohajotus Oy on toistaiseksi myynyt vuosittain vaihtelevia määriä Ekopoltetta, mutta tutkimusbudjetin takaamisen kannalta olisi eduksi, jos myyntimäärät olisivat tasaisempia. Omistajat ovat tämän nojalla aloittaneet neuvottelut pidempiaikaisista sopimuksia joidenkin vakioasiakkaiden kanssa, jotta tulevien vuosien tuotantotahtia olisi helpompi optimoida. Samalla myös kiinteät kustannukset putoaisivat, koska logistiikka yksinkertaistuisi ja asiakashankintaan kuluisi vähemmän työtunteja. Polttoainaemarkkinoilla yleisen standardin mukaisesti tuotteina sopimuksissa toimisivat 200 litran teräksiset polttoainetynnyrit, jotka täytetään Ekopoltteella.
-
-Ensimmäisistä sopimusneuvotteluista palattuaan Biohajotus Oy:n myyntiedustaja toteaa, että tämänhetkisten sopimusehdotusten toteutuessa tyypillisen toimintavuoden luvut näyttäisivät seuraavanlaisilta: asiakkaille toimitettu tynnyrimäärä on 1310 kpl, myyntihinta on 740 €/kpl, myyntikatetuottoprosentti 75 %, ja liiketoiminnan muut kustannukset 329000 €.
-
-
-
-
-'''
-
-
-
-
 # Tehtävän vakioluvut, täytä tähän omasi!!!!!!!
+
+
+'''
+
+Muutaman vuotta myöhemmin tuotantoa on onnistuneesti saatu optimoitua sopimusten mukaisten myyntimäärien ja toimitusaikojen pohjalta. Rahavirrat näyttävät omistajien silmään varsin mukavilta, ja Biohajotus Oy voi nyt keskittyä visionsan kannalta ensisijaisiin laitekehitystavoiteisiinsa. Satsaukset tutkimukseen vaikuttavatkin tuottaneen tulosta, kun vastikään yritykseen palkatun tuotantotalouden diplomi-insinöörin Powerpoint-esitys osoittaa markkinoiden olevan valmis uudelle prototyypille. Laitekehitysosaston mukaan edellisenä vuotena suunnitellulla sargassolevää hyödyntävällä tuotantoyksiköllä kyettäisiin valmistamaan Ekopoltetta energiatiheämpää polttoainetta vain marginaalisesti heikommalla raaka-aineen hyötysuhteella. Teknologian mahdollistaman tuotelanseerauksen, EkopoltePlus -lentopetrolin, myös arvioitaisiin herättävän alan isompien toimijoiden kiinnostusta. 
+
+Tuotannon aloittaminen vaatisi 330000 € investoinnin tuotantolaitteistoihin. Markkinatutkimuksen perusteella Biohajotus Oy:n johto odottaa EkopoltePlussan myyntimäärän olevan 130000 litraa ensimmäisenä vuotena, ja kysynnän vuosittainen kasvu saavuttaisi seuraavina tilikausina jopa 4.5 %. EkopoltePlussan suuremman energiatiheyden johdosta myös keskimääräisen myyntihinnan arvioidaan olevan huomattavasti alkuperäistä Ekopoltetta korkeammalla, noin 4.13 €/litra. Tuotantoprosessin suuremman vety- ja fosforikulutuksen johdosta kuitenkin ravinneannosten kokoa on kasvatettava siten, että myös tuotteen raaka-ainekustannukset nousisivat tasolle 1.15 €/tuotettu litra. Yksinomaan EkopoltePlus-tuotantoon liittyvien muiden kustannusten odotetaan olevan noin 170000 €/vuosi. 
+
+Pääoman keskimääräinen tuottovaatimus on Biohajotus Oy:lle investointipäätöksen tekohetkellä 9 %. Käyttöpääoman sitoutumista ei tarvitse ottaa huomioon. Tuotantolaitteiston eliniäksi arvioidaan noin viisi vuotta, ja se poistetaan tänä aikana tasapoistoin, jonka jälkeen voidaan olettaa, että tuotantolaitteisto on käyttökelvoton ja arvoton. Hinnoissa ei tarvitse huomioida arvonlisäveroa, yhteisövero on 20 %. 
+
+Tehtävissä arvioidaan investoinnin kannattavuutta viiden vuoden ajanjaksolla, jossa investointi tehdään vuonna 0 ja tuotanto on käynnissä vuosina 1-5.
+
+
+'''
+
 
 # ====================================================================================================
 # ====================================================================================================
@@ -24,16 +22,17 @@ Ensimmäisistä sopimusneuvotteluista palattuaan Biohajotus Oy:n myyntiedustaja 
 # !!!!! Omat arvot tähän kohtaan !!!!!
 
 tuotannon_aloittamisen_kustannus = 330000 # euros
-myyntimäärä_litraa = 120000 # liters
-vuosittainen_kasvu = 0.057 # 5.7 percent
-myyntihinta_per_litra = 3.73 # euros / litre
-raaka_ainekustannukset = 1.25 # euros / produced litre
+myyntimäärä_litraa = 130000 # liters
+vuosittainen_kasvu = 0.045 # 5.7 percent
+myyntihinta_per_litra = 4.13 # euros / litre
+raaka_ainekustannukset = 1.15 # euros / produced litre
 muut_kustannukset = 170000 # euros / year
-tuottovaatimus = 0.095 # 9.5 %
+tuottovaatimus = 0.09 # 9.5 %
+
 tuotantolaitteiston_elinikä = 5 # 5 years
 yhteisövero = 0.2 # 20 %
-uusi_tuottovaade = 0.118 # Uusi tuottovaade kysymyksessä 12
-uusi_kasvuprosentti = 0.019 # Uusi kasvuprosentti kysymyksessä 12
+uusi_tuottovaade = 0.132 # Uusi tuottovaade kysymyksessä 12
+uusi_kasvuprosentti = 0.018 # Uusi kasvuprosentti kysymyksessä 12
 tuotantolaitteiston_myyntihinta_tehtävässä_12 = 198000 # Tuotantolaitteiston myyntihinta tehtävässä 12
 vuodet_jaljella = 2 # Vuodet, jotka on tehtävässä 12 jäljellä, kun talous kääntyy laskusuhdanteeseen...
 
@@ -62,19 +61,6 @@ vuotuiset_poistot = tuotannon_aloittamisen_kustannus / tuotantolaitteiston_elini
 
 
 
-
-'''
-
-Muutaman vuotta myöhemmin tuotantoa on onnistuneesti saatu optimoitua sopimusten mukaisten myyntimäärien ja toimitusaikojen pohjalta. Rahavirrat näyttävät omistajien silmään varsin mukavilta, ja Biohajotus Oy voi nyt keskittyä visionsan kannalta ensisijaisiin laitekehitystavoiteisiinsa. Satsaukset tutkimukseen vaikuttavatkin tuottaneen tulosta, kun vastikään yritykseen palkatun tuotantotalouden diplomi-insinöörin Powerpoint-esitys osoittaa markkinoiden olevan valmis uudelle prototyypille. Laitekehitysosaston mukaan edellisenä vuotena suunnitellulla sargassolevää hyödyntävällä tuotantoyksiköllä kyettäisiin valmistamaan Ekopoltetta energiatiheämpää polttoainetta vain marginaalisesti heikommalla raaka-aineen hyötysuhteella. Teknologian mahdollistaman tuotelanseerauksen, EkopoltePlus -lentopetrolin, myös arvioitaisiin herättävän alan isompien toimijoiden kiinnostusta. 
-
-Tuotannon aloittaminen vaatisi 330000 € investoinnin tuotantolaitteistoihin. Markkinatutkimuksen perusteella Biohajotus Oy:n johto odottaa EkopoltePlussan myyntimäärän olevan 120000 litraa ensimmäisenä vuotena, ja kysynnän vuosittainen kasvu saavuttaisi seuraavina tilikausina jopa 5.7 %. EkopoltePlussan suuremman energiatiheyden johdosta myös keskimääräisen myyntihinnan arvioidaan olevan huomattavasti alkuperäistä Ekopoltetta korkeammalla, noin 3.73 €/litra. Tuotantoprosessin suuremman vety- ja fosforikulutuksen johdosta kuitenkin ravinneannosten kokoa on kasvatettava siten, että myös tuotteen raaka-ainekustannukset nousisivat tasolle 1.25 €/tuotettu litra. Yksinomaan EkopoltePlus-tuotantoon liittyvien muiden kustannusten odotetaan olevan noin 170000 €/vuosi. 
-
-Pääoman keskimääräinen tuottovaatimus on Biohajotus Oy:lle investointipäätöksen tekohetkellä 9.5 %. Käyttöpääoman sitoutumista ei tarvitse ottaa huomioon. Tuotantolaitteiston eliniäksi arvioidaan noin viisi vuotta, ja se poistetaan tänä aikana tasapoistoin, jonka jälkeen voidaan olettaa, että tuotantolaitteisto on käyttökelvoton ja arvoton. Hinnoissa ei tarvitse huomioida arvonlisäveroa, yhteisövero on 20 %. 
-
-Tehtävissä arvioidaan investoinnin kannattavuutta viiden vuoden ajanjaksolla, jossa investointi tehdään vuonna 0 ja tuotanto on käynnissä vuosina 1-5.
-
-'''
-
 # This here is to decide wether we should continue or sell.
 
 def evaluate_continue_or_sell(last_known_volume, myyntihinta_per_litra, raaka_ainekustannukset, muut_kustannukset,
@@ -99,31 +85,6 @@ def evaluate_continue_or_sell(last_known_volume, myyntihinta_per_litra, raaka_ai
 def evaluate_sale(sale_price, WACC_new):
 	# t=1 because payment is end of year 3
 	return sale_price / (1 + WACC_new)**1
-
-
-def jatkamisen_npv(tuotantolaitteiston_arvo, vuodet_jaljella, vuosittainen_kasvu, tuottovaatimus, aloitus_myyntimaara):
-	# Constants
-	# tuotantolaitteiston_arvo = 198000
-	# vuodet_jaljella = 3
-	# vuosittainen_kasvu = 0.019
-	# tuottovaatimus = 0.118
-	# aloitus_myyntimaara = 120000 * (1 + 0.057)**2  # myyntimäärä tilikauden 3 alussa
-	
-	npv_jatkaminen = 0
-	for t in range(1, vuodet_jaljella + 1):
-		# Sales volume for year 3, 4, 5
-		myyntimaara_t = aloitus_myyntimaara * ((1 + vuosittainen_kasvu) ** (t - 1))
-		liikevaihto = myyntimaara_t * myyntihinta_per_litra
-		materiaalikustannukset = myyntimaara_t * raaka_ainekustannukset
-		käyttökate_func = liikevaihto - materiaalikustannukset - muut_kustannukset
-		liikevoitto = käyttökate_func - vuotuiset_poistot
-		verot = liikevoitto * yhteisövero
-		FCF_t = liikevoitto * (1 - yhteisövero) + vuotuiset_poistot
-		npv_jatkaminen += FCF_t / ((1 + tuottovaatimus) ** t)
-
-	print("NPV jatkamiselle (vuosilta 3-5):", round(npv_jatkaminen, 2))
-	return npv_jatkaminen
-
 
 def sum_term(WACC, FCF_t, t):
 	return FCF_t / (1 + WACC)**t
@@ -232,16 +193,16 @@ def toinen_sivu():
 		materiaalikustannukset = myyntimäärä_litraa_t * raaka_ainekustannukset
 
 		# Käyttökate = liikevaihto - materiaalikustannukset - muut_kustannukset
-		käyttökate_loop = liikevaihto - materiaalikustannukset - muut_kustannukset
+		käyttökate_loop = liikevaihto_loop - materiaalikustannukset - muut_kustannukset
 
 		# Liikevoitto = käyttökate - poistot
 		liikevoitto_loop = käyttökate_loop - vuotuiset_poistot
 
 		# Verot = liikevoitto * vero
-		verot_loop = liikevoitto * yhteisövero
+		verot_loop = liikevoitto_loop * yhteisövero
 
 		# Vapaat kassavirrat FCF = liikevoitto*(1 - vero) + poistot
-		FCF_t_loop = liikevoitto * (1 - yhteisövero) + vuotuiset_poistot
+		FCF_t_loop = liikevoitto_loop * (1 - yhteisövero) + vuotuiset_poistot
 
 		# Discount and add to npv
 		npv += FCF_t_loop / (1 + tuottovaatimus)**t
@@ -267,28 +228,6 @@ def toinen_sivu():
 	)
 
 	npv_sell = evaluate_sale(tuotantolaitteiston_myyntihinta_tehtävässä_12, uusi_tuottovaade)
-
-	# print("NPV if continuing production (years 3–5):", npv_continue)
-	# print("NPV if selling equipment at end of year 3:", npv_sell)
-
-	if npv_continue > npv_sell:
-		print("Decision: CONTINUE production")
-		# Järkevämpi päätös on jatkaa tuotantoa...
-		'''
-		def jatkamisen_npv(tuotantolaitteiston_arvo, vuodet_jaljella, vuosittainen_kasvu, tuottovaatimus, aloitus_myyntimaara):
-		# Constants
-		# tuotantolaitteiston_arvo = 198000
-		# vuodet_jaljella = 3
-		# vuosittainen_kasvu = 0.019
-		# tuottovaatimus = 0.118
-		# aloitus_myyntimaara = 120000 * (1 + 0.057)**2  # myyntimäärä tilikauden 3 alussa
-		'''
-		npv_jatka = jatkamisen_npv(tuotantolaitteiston_myyntihinta_tehtävässä_12, vuodet_jaljella, uusi_kasvuprosentti, uusi_tuottovaade, myyntimäärä_litraa * (1 + vuosittainen_kasvu)**(5 - vuodet_jaljella))
-		# print("Jatkamisen NPV: "+str(npv_jatka))
-
-
-	else:
-		print("Decision: SELL the equipment")
 
 	# Answers to questions 12 and 13
 
