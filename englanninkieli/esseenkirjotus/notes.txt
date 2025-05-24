@@ -1,0 +1,78 @@
+
+22.5.2025 15:30
+
+Ok, eli mun ajatuksena oli, että kirjotan ajatusviivoilla joitain ideoita, ja sitten koetan kirjoittaa niiden perusteella osioita. Esimerkiksi abstract osiossa esittelen asian jne.. Pyrin ottamaan mallia aikaisemmista palautuksista ja ehkä joistakin nature.com papereista. Itse en tiedä elektronimikroskopiasta mitään, mutta kaippa tämä tästä.
+
+Ihan alkujen aluksi laitetaan ChatGPT hakemaan hyviä lähteitä: "Can you find some articles related to STM on nature.com which I should take inspiration from and use as sources? I want a general overview, so do not pick out too specific articles."
+
+Ja muutetaan suoraan bibtex tiedostoksi: "Can you export it as bibtex thing?"
+
+Tässä on tulos:
+
+@article{Binnig2022STM40years,
+  author = {Binnig, Gerd and Rohrer, Heinrich},
+  title = {40 years of scanning tunnelling microscopy},
+  journal = {Nature Reviews Physics},
+  volume = {4},
+  pages = {265–266},
+  year = {2022},
+  doi = {10.1038/s42254-022-00462-2},
+  url = {https://www.nature.com/articles/s42254-022-00462-2}
+}
+
+@article{Hapala2021STMdatabase,
+  author = {Hapala, Prokop and Ondráček, Martin and Jelínek, Pavel},
+  title = {Computational scanning tunneling microscope image database},
+  journal = {Scientific Data},
+  volume = {8},
+  number = {1},
+  pages = {212},
+  year = {2021},
+  doi = {10.1038/s41597-021-00824-y},
+  url = {https://www.nature.com/articles/s41597-021-00824-y}
+}
+
+@article{Wang2022STMtopography,
+  author = {Wang, Yi and Liu, Jie and Liu, Xuefeng and et al.},
+  title = {Topography inversion in scanning tunneling microscopy of single molecules},
+  journal = {Scientific Reports},
+  volume = {12},
+  number = {1},
+  pages = {7157},
+  year = {2022},
+  doi = {10.1038/s41598-022-10870-0},
+  url = {https://www.nature.com/articles/s41598-022-10870-0}
+}
+
+Sitten huomataan että nuo kaikki ovat maksuseinän takana, eli koetetaan löytää muita lähteitä.
+
+"Can you find such articles on nature.com which are not behind a paywall?"
+
+
+Tämä ei tuottanut mitään hyviä tuloksia. Ehkä YF? YF sivulta 1342 löytyy jotakin.
+
+Tehdään bibtex entry:
+
+@book{YoungFreedman2020,
+  author    = {Hugh D. Young and Roger A. Freedman},
+  title     = {University Physics with Modern Physics},
+  edition   = {15th},
+  year      = {2020},
+  publisher = {Pearson},
+  isbn      = {9780135159552},
+  note      = {See page 1342 for information on scanning tunneling microscopy (STM)}
+}
+
+
+Nyt mulla on introduction section, joka on tämmöinen:
+
+The study of sub-microscopic phenomena has until recent decades been very difficult. Previous researchers and scientists were limited to optical wavelengths which made imaging of such practically impossible. 
+
+ehkä seuraavaksi kerron historiasta ja joistakin merkittävistä henkilöistä aiheeseen liittyen? Ehkä wikipedia artikkelista löytyisi jotain? Wikipedia itse on varmaan huono lähde, mutta wikipedian lähdeluettelosta voisi katsoa jotain...
+
+Kuulin kaverilta, että hyvä lähde on noi Nobel sivut, ehkä voimme käyttää niitä lähteenä tähän esseeseen?
+
+
+
+
+
